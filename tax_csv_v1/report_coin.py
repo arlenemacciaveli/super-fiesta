@@ -79,7 +79,7 @@ def txhistory(app, job=None):
 if __name__ == '__main__':
 # Now the fun begins 
     with open("wallet.txt",'r',encoding = 'utf-8') as f:
-        wallet_address= f.read()
+        wallet_address= (f.read()).strip()
     app = initialize(wallet_address)
     exporter = txhistory(app, job=None)
     report_util.run_exports(app, exporter, 'koinly')
