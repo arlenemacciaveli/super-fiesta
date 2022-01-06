@@ -12,7 +12,7 @@ Another tool that works can be found at https://apollo-export.io/
 # Install
 
   1. Install python 3.9
-  2. Install pip packages (mostly from the requirements of https://github.com/hodgerpodger/staketaxcsv)
+  2. Install pip packages (mostly the requirements of https://github.com/hodgerpodger/staketaxcsv)
  
  
 # Usage
