@@ -9,7 +9,13 @@ For OSMO and ATOM trasactions use: https://stake.tax/.
 Another tool that works can be found at https://apollo-export.io/
 
 
-__Usage:__ 
+# Install
+
+  1. Install python 3.9
+  2. Install pip packages (mostly from the requirements of https://github.com/hodgerpodger/staketaxcsv)
+ 
+ 
+# Usage
 
 1.Replace the dummy wallet address in the __wallet.txt__ file.
 
