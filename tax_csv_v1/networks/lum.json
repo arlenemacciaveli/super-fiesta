@@ -1,0 +1,10 @@
+{
+    "chain_name": "LUM Network",
+    "coingecko": "",
+    "api": "node0.mainnet.lum.network/rest",
+    "sdk_version": "0.44.5",
+    "addr_prefix": "lum",
+    "ticker":   "LUM",
+    "denom": "ulum",
+    "logo": "https://ipfs.infura.io/ipfs/QmWwKRnkHantvhoFx9serWaWKBUG6gfhSYN3SHdAv1jmKY"
+}
